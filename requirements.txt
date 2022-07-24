@@ -1,0 +1,7 @@
+requests
+peewee==2.10.2
+Click
+logbook
+Pillow
+pyqt5
+python-dateutil
